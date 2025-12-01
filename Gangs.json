@@ -1,5 +1,5 @@
 {
-  "": {
+  "163519403": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
     "Itens": ["TomanKick", "Raio" ],
@@ -10,7 +10,7 @@
     }
   },
 
-  "": {
+  "329045658": {
     "Name": "Manicas",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick", "Raio"],
@@ -32,7 +32,7 @@
     }
   },
 
-  "": {
+  "574265927": {
     "Name": "Yakuza Gangue",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -43,7 +43,7 @@
     }
   },
 
-  "": {
+  "485148414": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick", "Raio"],
@@ -54,7 +54,7 @@
     }
   },
 
-   "": {
+   "62112955": {
     "Name": "Valhalla | New Generation",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -65,7 +65,7 @@
     }
   },
 
-    "": {
+    "16143549": {
     "Name": "Amendobobos",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -75,7 +75,7 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-   "": {
+   "3989489": {
     "Name": "Eternity Angel’s",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -85,7 +85,7 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
-   "": {
+   "33046359": {
     "Name": "SoloNoCB",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -95,7 +95,7 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
     }
   },
-   "": {
+   "34606452": {
     "Name": "Heiwa",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -105,7 +105,7 @@
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-   "": {
+   "33046359": {
     "Name": "Legião Arcana",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
