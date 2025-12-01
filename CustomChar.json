@@ -1,20 +1,57 @@
 {
-    "PlayerPermission": {
-        "DarkLuffy128": {
-            "Tier": 1000
-        },
-        "Vrilusao": {
-            "Tier": 1000
-        },
-        "RENANGATOGH": {
-            "Tier": 1000
-        }
+  "PlayerPermission": {
+    "DarkLuffy128": {
+      "PlayerTier": 1000
     },
-    "Characters": {
-         "Sukuna": {
-            "Tier": 1,
-            "Permission": [],
-            "ImageID": 113089955878697
-        }
+    "ZakaiDev": {
+      "PlayerTier": 1000
+    },
+    "FenoDev": {
+      "PlayerTier": 1000
+    },
+    "itz_kevin501": {
+      "PlayerTier": 1000
+    },
+    "hdhegskdv": {
+      "PlayerTier": 100
+    },
+     "RENANGATOGH": {
+      "PlayerTier": 100
+    },
+     "SEGREDO6001": {
+      "PlayerTier": 100
     }
+  },
+  "Characters": {
+    "gojo": {
+      "Tier": 1,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "eren": {
+      "Tier": 100,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "sukunaheian": {
+      "Tier": 1000,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+      "diavolo": {
+      "Tier": 1,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+      "denji": {
+      "Tier": 100,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "subaru": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    }
+  }
 }
