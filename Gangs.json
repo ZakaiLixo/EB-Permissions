@@ -2,7 +2,7 @@
   "529553621": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -54,7 +54,7 @@
     }
   },
 
-   "529553621": {
+   "582239285": {
     "Name": "Valhalla | New Generation",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
@@ -98,7 +98,7 @@
    "34976153": {
     "Name": "Heiwa",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
+    "Itens": ["PisaoLuas", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
