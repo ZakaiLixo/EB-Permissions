@@ -25,32 +25,32 @@
   "Characters": {
     "gojo": {
       "Tier": 1,
-      "Permission": [3859421439],
+      "Permission": [],
       "Icon": 8442996682
     },
     "eren": {
       "Tier": 100,
-      "Permission": [3859421439],
-      "Icon": 5526435935
+      "Permission": [],
+      "Icon": 12715437884
     },
     "zake": {
       "Tier": 1000,
-      "Permission": [3859421439],
-      "Icon": 5526435935
+      "Permission": [],
+      "Icon": 10878657291
     },
     "sukunaheian": {
       "Tier": 1000,
-      "Permission": [3859421439],
+      "Permission": [],
       "Icon": 103918594734875
     },
       "diavolo": {
       "Tier": 1,
-      "Permission": [3859421439],
+      "Permission": [],
       "Icon": 6283115481
     },
       "denji": {
       "Tier": 100,
-      "Permission": [3859421439],
+      "Permission": [],
       "Icon": 11347426986
     },
     "subaru": {
