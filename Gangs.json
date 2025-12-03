@@ -2,7 +2,7 @@
   "62112955": {
     "Name": "Сагтоот Unity",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "FireKick", "Rinnegan"],
+    "Itens": ["TomanKick", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -13,7 +13,7 @@
   "33046359": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Collateral", "MundoTransparente"],
+    "Itens": ["PisaoLuas", "Collateral", "MundoTransparente", "Susanoo", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -24,7 +24,7 @@
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": ["Kokusen", "Raio", "FireKick", "MundoTransparente", "Rinnegan", "HinokamiKagura"],
+    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Kirin", "Rinnegan", "Raio", "Sandevistan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
