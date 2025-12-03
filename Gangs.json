@@ -26,9 +26,9 @@
     "Health": 1000,
     "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Kirin", "Rinnegan", "Raio", "Sandevistan", "HinokamiKagura"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [0.866667, 0.466667, 1] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [0.866667, 0.466667, 1] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [0.866667, 0.466667, 1] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [210, 119, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [210, 119, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [210, 119, 255] }
     }
   }
 }
