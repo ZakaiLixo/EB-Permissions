@@ -2,7 +2,7 @@
   "62112955": {
     "Name": "Сагтоот Unity",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras", "Susanoo", "KunaiRaijin"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "FireKick", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -13,7 +13,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas"],
+    "Itens": ["PisaoLuas", "Collateral"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -21,14 +21,14 @@
     }
   },
 
-  "34976153": {
-    "Name": "Heiwa",
+  "35898106": {
+    "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras"],
+    "Itens": ["Kokusen", "Raio", "FireKick", "MundoTransparente", "Rinnegan", "HinokamiKagura"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
     }
   }
 }
