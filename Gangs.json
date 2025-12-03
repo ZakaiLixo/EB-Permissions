@@ -24,7 +24,7 @@
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Kirin", "Rinnegan", "Raio", "Sandevistan"],
+    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Kirin", "Rinnegan", "Raio", "Sandevistan", "HinokamiKagura"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
