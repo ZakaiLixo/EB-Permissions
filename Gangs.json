@@ -2,7 +2,7 @@
   "62112955": {
     "Name": "Сагтоот Unity",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras", "Susanoo"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "HinokamiKagura", "Rinnegan", "Kirin", "ChuteDeGelo", "BlizzardThorns", "Sandevistan", "Collateral", "CloneDasSombras", "Susanoo", "KunaiRaijin"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
