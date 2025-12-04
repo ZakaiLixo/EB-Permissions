@@ -21,6 +21,39 @@
     }
   },
 
+   "529553621": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 1000,
+    "Itens": ["TomanKick", "BlizzardThorns", "ChuteDeGelo", "CloneDasSombras", "Collateral", "HinokamiKagura", "Raio", "Kirin", "MundoTransparente", "Rinnegan", "Sandevistan", "Susanoo"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+    }
+  },
+
+  "820856359": {
+    "Name": "Sombra - Secreta",
+    "Health": 1000,
+    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+    }
+  },
+
+    "192921763": {
+    "Name": "Jujutsu Kaisen",
+    "Health": 1000,
+    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+    }
+  },
+
   "35898106": {
     "Name": "Archangel's",
     "Health": 1000,
