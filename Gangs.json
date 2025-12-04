@@ -21,6 +21,17 @@
     }
   },
 
+   "34976153": {
+    "Name": "SoloNoCB",
+    "Health": 1000,
+    "Itens": ["PisaoLuas", "Collateral", "MundoTransparente", "Susanoo"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
+    }
+  },
+
    "529553621": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
