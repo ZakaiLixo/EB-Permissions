@@ -18,29 +18,32 @@
     "Dark_shadow3251": {
       "PlayerTier": 100
     },
-    "hdhegskdv": {
+    "SEGREDO6001": {
       "PlayerTier": 1
+    },
+    "hdhegskdv": {
+      "PlayerTier": 100
     }
   },
   "Characters": {
     "diavolo": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
       "Icon": 104230716807433
     },
     "eren": {
       "Tier": 1,
-      "Permission": [3924679737],
+      "Permission": [],
       "Icon": 84446701462066
     },
     "denji": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
       "Icon": 87649068882926
     },
     "gojo": {
       "Tier": 1,
-      "Permission": [3924679737],
+      "Permission": [],
       "Icon": 109085672677744
     },
     "subaru": {
@@ -49,12 +52,12 @@
       "Icon": 107932992815962
     },
     "sukunaheian": {
-      "Tier": 1,
+      "Tier": 1000,
       "Permission": [],
       "Icon": 76122158265995
     },
     "zake": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
       "Icon": 119271049218295
     }
