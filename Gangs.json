@@ -2,7 +2,7 @@
   "62112955": {
     "Name": "Сагтоот Unity",
     "Health": 1000,
-    "Itens": ["TomanKick", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan", "Kirin"],
+    "Itens": ["Kokusen", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan", "Kirin"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
