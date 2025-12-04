@@ -16,7 +16,7 @@
       "PlayerTier": 100
     },
     "hdhegskdv": {
-      "PlayerTier": 1
+      "PlayerTier": 100
     }
   },
   "Characters": {
@@ -49,6 +49,11 @@
       "Tier": 1,
       "Permission": [],
       "Icon": 76122158265995
+    },
+     "Ai-Ralsinho": {
+      "Tier": 100,
+      "Permission": [],
+      "Icon": 13205775183
     },
     "zake": {
       "Tier": 1,
