@@ -2,7 +2,7 @@
   "62112955": {
     "Name": "Сагтоот Unity",
     "Health": 1000,
-    "Itens": ["Kokusen", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan", "Kirin"],
+    "Itens": ["Kokusen", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -79,7 +79,7 @@
   "35898106": {
     "Name": "Archangel's",
     "Health": 1000,
-    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Kirin", "Rinnegan", "Raio", "Sandevistan", "HinokamiKagura"],
+    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Rinnegan", "Raio", "Sandevistan", "HinokamiKagura"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [243, 193, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [243, 193, 255] },
