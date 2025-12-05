@@ -57,7 +57,7 @@
     "192921763": {
     "Name": "Jujutsu Kaisen",
     "Health": 1000,
-    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan"],
+    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan", "MundoTransparente", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
@@ -65,6 +65,17 @@
     }
   },
 
+    "192921763": {
+    "Name": "Goten",
+    "Health": 1000,
+    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan", "MundoTransparente", "ChuteDeGelo"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+    }
+  },
+  
   "35898106": {
     "Name": "Archangel's",
     "Health": 1000,
