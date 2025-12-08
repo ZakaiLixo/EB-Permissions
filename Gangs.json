@@ -1,30 +1,41 @@
 {
-  "62112955": {
-    "Name": "Сагтоот Unity",
+  "529553621": {
+    "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["Kokusen", "Susanoo", "MundoTransparente", "HinokamiKagura", "FireKick", "Sandevistan", "Rinnegan"],
+    "Itens": ["TomanKick", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
+
+  "192921763": {
+    "Name": "Jujutsu Kaisen",
+    "Health": 1000,
+    "Itens": ["Kokusen", "FireKick"],
+    "Colors": {
+      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [255, 255, 255], "Borda": [255, 238, 0] },
+      "Team": { "Texto": [255, 255, 255], "Borda": [255, 238, 0] }
     }
   },
 
   "34762763": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Collateral", "MundoTransparente", "Sandevistan", "Rinnegan"],
+    "Itens": ["PisaoLuas"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   },
 
-   "34976153": {
+  "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Collateral", "MundoTransparente", "Susanoo"],
+    "Itens": ["PisaoLuas"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -32,58 +43,36 @@
     }
   },
 
-   "529553621": {
-    "Name": "Tokyo Manji Gang",
+  "35898106": {
+    "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": ["TomanKick", "BlizzardThorns", "ChuteDeGelo", "CloneDasSombras", "Collateral", "HinokamiKagura", "Raio", "Kirin", "MundoTransparente", "Rinnegan", "Sandevistan", "Susanoo"],
+    "Itens": ["Kokusen", "FireKick", "Raio"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
     }
   },
 
-  "820856359": {
-    "Name": "Sombra - Secreta",
-    "Health": 1000,
-    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
-  },
-
-    "192921763": {
-    "Name": "Jujutsu Kaisen",
-    "Health": 1000,
-    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan", "MundoTransparente", "ChuteDeGelo"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
-    }
-  },
-
-    "35589051": {
+  "35589051": {
     "Name": "Goten",
     "Health": 1000,
-    "Itens": ["Raio", "FireKick", "Kokusen", "Susanoo", "Rinnegan", "MundoTransparente", "ChuteDeGelo"],
+    "Itens": ["Kokusen", "FireKick", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
     }
   },
-  
-  "35898106": {
-    "Name": "Archangel's",
+
+  "33633010": {
+    "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": ["BlizzardThorns", "Kokusen", "FireKick", "Rinnegan", "Raio", "Sandevistan", "HinokamiKagura"],
+    "Itens": ["Kokusen", "FireKick"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [243, 193, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [243, 193, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [243, 193, 255] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
     }
   }
 }
