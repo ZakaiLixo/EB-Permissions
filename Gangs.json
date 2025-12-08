@@ -2,7 +2,7 @@
   "35780585": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "MundoTransparente"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -24,7 +24,7 @@
   "34762763": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas"],
+    "Itens": ["PisaoLuas", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
