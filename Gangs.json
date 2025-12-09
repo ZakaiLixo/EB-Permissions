@@ -13,7 +13,7 @@
   "192921763": {
     "Name": "Jujutsu Kaisen",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
@@ -57,7 +57,7 @@
   "35589051": {
     "Name": "力Kanto Manji力",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Raio"],
+    "Itens": "Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -65,7 +65,7 @@
     }
   },
 
-  "33633010": {
+  "12345678": {
     "Name": "SoloNoCB",
     "Health": 1000,
     "Itens": ["Kokusen", "FireKick"],
