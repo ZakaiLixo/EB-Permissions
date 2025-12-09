@@ -2,7 +2,7 @@
   "35780585": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Raio", "MundoTransparente"],
+    "Itens": ["TomanKick", "Raio", "MundoTransparente", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
