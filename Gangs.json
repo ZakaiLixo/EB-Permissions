@@ -13,7 +13,7 @@
   "192921763": {
     "Name": "Jujutsu Kaisen",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "MundoTransparente"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
@@ -65,14 +65,14 @@
     }
   },
 
-  "12345678": {
-    "Name": "SoloNoCB",
+  "34072792": {
+    "Name": "Yami Yamaguchi",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
     "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
     }
   }
 }
