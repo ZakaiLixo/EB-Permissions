@@ -43,6 +43,17 @@
     }
   },
 
+  "192921763": {
+    "Name": "力Kanto Manji力",
+    "Health": 1000,
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "HinokamiKagura", "Collateral"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
+    }
+  },
+  
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
