@@ -35,7 +35,7 @@
   "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "Collateral", "FP_Run", "Susanoo"],
+    "Itens": ["PisaoLuas", "Collateral", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
